@@ -1,2 +1,4 @@
 ipython
+jupyter
 python-nvd3
+pandas

@@ -6,3 +6,10 @@
 bin
 include
 lib
+
+# swap files
+*.swp
+*\#
+
+# pip
+pip-selfcheck.json

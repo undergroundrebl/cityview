@@ -13,3 +13,6 @@ lib
 
 # pip
 pip-selfcheck.json
+
+# node modules
+node_modules/

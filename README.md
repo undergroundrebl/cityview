@@ -2,7 +2,7 @@
 This repo is for the 2017 Hack for a cause City of Eugene Data Dashboard challenge.
 
 Team Members:
-Larry Price        lapric@Gamil.com
+Larry Price        laprice@Gmail.com
 Ellwood Zwovcic    ellwood@blendermonkey.com
 Heron Navarro      navarro.heron@gmail.com
 Dylan Heine        dylanheine@gmail.com

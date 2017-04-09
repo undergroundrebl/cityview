@@ -1,7 +1,7 @@
 # Hack for a Cause2017 Team "t-cityview"
 This repo is for the 2017 Hack for a cause City of Eugene Data Dashboard challenge.
 
-Team Members:
+Team Members:  
 Larry Price        laprice@Gmail.com  
 Ellwood Zwovcic    ellwood@blendermonkey.com  
 Heron Navarro      navarro.heron@gmail.com  
